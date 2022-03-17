@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AirQualityLive/static/css/main.6ccd67d7.css",
+    "main.js": "/AirQualityLive/static/js/main.546b7816.js",
+    "static/js/787.b31b80ec.chunk.js": "/AirQualityLive/static/js/787.b31b80ec.chunk.js",
+    "index.html": "/AirQualityLive/index.html",
+    "main.6ccd67d7.css.map": "/AirQualityLive/static/css/main.6ccd67d7.css.map",
+    "main.546b7816.js.map": "/AirQualityLive/static/js/main.546b7816.js.map",
+    "787.b31b80ec.chunk.js.map": "/AirQualityLive/static/js/787.b31b80ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccd67d7.css",
+    "static/js/main.546b7816.js"
+  ]
+}
